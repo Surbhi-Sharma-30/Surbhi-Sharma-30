@@ -1,6 +1,7 @@
 - 👋 Hello World, I’m Surbhi Sharma
 - 🖥️ I'm a BCA Graduate from DHSGU, Sagar
-- 🖥️ An AI(Micro-Degree) Trainee at from NSTI(W), Indore
+- 🖥️ Certified in AIPA from Microsoft and DGT
+- 🖥️ Working as AI/ML Data Associate
 - 👀 I am particularly interested to enhance human productivity through technology especially Artificial Intelligence
 - 📫 How to reach me README.md
 - 😄 Pronouns: She/her
